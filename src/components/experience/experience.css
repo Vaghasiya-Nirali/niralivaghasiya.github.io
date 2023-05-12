@@ -1,0 +1,17 @@
+.timeline-card {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    border: 5px solid;
+    border-color: rgb(59, 183, 233);
+    position: absolute;
+    margin-top: 17px;
+    margin-left: -12px;
+
+}
+
+.timeline-body {
+    border-left: 2px solid #e6e9ed
+}

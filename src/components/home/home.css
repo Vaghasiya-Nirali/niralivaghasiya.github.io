@@ -1,0 +1,12 @@
+.card-img{
+    background-image: url('/public/assets/image/header-background.jpg');
+              background-size: cover;
+              border-radius: 0px;
+}
+.card-body-img{
+    background-color: rgb(0 0 0 / 53%);
+    backdrop-filter: blur(2px);
+}
+.text{
+    text-align: center;
+}

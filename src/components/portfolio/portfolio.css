@@ -1,0 +1,10 @@
+.rev-row {
+    flex-direction: row;
+}
+
+
+@media (max-width: 576px) {
+    .rev-row {
+        flex-direction: column-reverse;
+    }
+}
