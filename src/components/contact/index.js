@@ -166,8 +166,6 @@ const Contact = () => {
                       <ErrorMessage name="hobbies" component={Error} />
 
                       <div id="my-radio-group">Gender</div>
-
-                    
                       <input
                         type="radio"
                         name="gender"
